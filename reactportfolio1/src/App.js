@@ -1,9 +1,23 @@
-import React from 'react';
+import React, { useState } from 'react'
 import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom'
 import About from './pages/About'
 import Contact from './pages/Contact'
 import Portfolio from './pages/Portfolio'
-
+import {
+  Collapse,
+  Navbar,
+  NavbarToggler,
+  NavbarBrand,
+  Nav,
+  NavItem,
+  NavLink,
+  UncontrolledDropdown,
+  DropdownToggle,
+  DropdownMenu,
+  DropdownItem,
+  NavbarText
+} from 'reactstrap'
+import './App.css'
 const App = () => {
   return (
     <Router>
