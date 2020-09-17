@@ -19,6 +19,9 @@ import {
 } from 'reactstrap'
 import './App.css'
 const App = () => {
+  const [isOpen, setIsOpen] = useState(false);
+
+  const toggle = () => setIsOpen(!isOpen);
   return (
     <Router>
       <div>
