@@ -34,7 +34,7 @@ const App = () => {
               <nav className="reddish">
                 <Navbar light expand="md">
                   
-                  <NavbarBrand>React</NavbarBrand>
+                  <NavbarBrand>Home</NavbarBrand>
                   
                   <NavbarToggler onClick={toggle} />
                   <Collapse isOpen={isOpen} navbar>
