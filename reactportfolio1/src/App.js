@@ -31,7 +31,7 @@ const App = () => {
         <div className="content-wrap">
           <Router>
             <div>
-              <Navbar color="light" light expand="md">
+              <Navbar color="success" light expand="md">
                 <NavbarBrand>Home</NavbarBrand>
                 <NavbarToggler onClick={toggle} />
                 <Collapse isOpen={isOpen} navbar>
