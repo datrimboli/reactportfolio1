@@ -1,9 +1,9 @@
 .link {
-  color: white;
+  color:white;
 }
 .link:hover {
   text-decoration: none ;
-  color:white;
+  color :white;
 }
 
 .page-container {
@@ -17,5 +17,9 @@
 }
 
 .reddish {
-color:#dc3535
+background-color:#dc3535
+}
+
+.navbar-brand{
+    color:white !important;
 }

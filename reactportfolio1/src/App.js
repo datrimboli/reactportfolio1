@@ -32,8 +32,10 @@ const App = () => {
           <Router>
             <div>
               <nav className="reddish">
-                <Navbar color="success" light expand="md">
-                  <NavbarBrand>Home</NavbarBrand>
+                <Navbar light expand="md">
+                  
+                  <NavbarBrand>React</NavbarBrand>
+                  
                   <NavbarToggler onClick={toggle} />
                   <Collapse isOpen={isOpen} navbar>
                     <Nav className="mr-auto" navbar>
