@@ -63,14 +63,14 @@ const Contact = () => {
         <Label for="exampleCheck" check>Check me out</Label>
       </FormGroup>
       <Button>Sign in</Button>
-      <div>
+      {/* <div>
 
         <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
         <Card>
 
           <CardFooter className="text-muted">@React Portfolio App 2020</CardFooter>
         </Card>
-      </div>
+      </div> */}
     </Form>
   )
 }

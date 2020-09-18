@@ -5,12 +5,10 @@ import {
 } from 'reactstrap';
 const Portfolio = () => {
   return (
-    <div>
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-<Card>
-  <CardFooter className="text-muted">@React Portfolio App 2020</CardFooter>
-      </Card>
-    </div>
+    <>
+      <h1>hi</h1>
+
+    </>
   )
 }
 
