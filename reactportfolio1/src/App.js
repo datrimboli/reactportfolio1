@@ -25,11 +25,23 @@ const App = () => {
   return (
     <Router>
       <div>
-        <nav>
-          <Link to="/">About</Link>
-          <Link to="/portfolio">Portfolio</Link>
-          <Link to="/contact">Contact</Link>
-        </nav>
+        <Navbar color="light" light expand="md">
+          <NavbarBrand>Home</NavbarBrand>
+          <NavbarToggler onClick={toggle} />
+          <Collapse isOpen={isOpen} navbar>
+            <Nav className="mr-auto" navbar>
+              <NavItem>
+                <NavLink><Link className="link" to="/">About</Link></NavLink>
+              </NavItem>
+              <NavItem>
+                <NavLink><Link className="link" to="/portfolio">Portfolio</Link></NavLink>
+              </NavItem>
+              <NavItem>
+                <NavLink><Link className="link" to="/contact">Contact</Link></NavLink>
+              </NavItem>
+            </Nav>
+          </Collapse>
+        </Navbar>
         <Switch>
           <Route exact path="/" component={About} />
           <Route path="/portfolio" component={Portfolio} />
