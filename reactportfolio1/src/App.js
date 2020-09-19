@@ -4,6 +4,7 @@ import About from './pages/About'
 import Contact from './pages/Contact'
 import Portfolio from './pages/Portfolio'
 import Footer from './components/Footer'
+import Card from './components/Cards'
 import {
   Collapse,
   Navbar,
@@ -27,6 +28,7 @@ const App = () => {
 
   return (
     <>
+     
       <div className="page-container">
         <div className="content-wrap">
           <Router>
@@ -52,6 +54,7 @@ const App = () => {
                   </Collapse>
                 </Navbar>
               </nav>
+              
               <Switch>
                 <Route exact path="/" component={About} />
                 <Route path="/portfolio" component={Portfolio} />

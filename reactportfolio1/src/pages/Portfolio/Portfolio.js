@@ -1,12 +1,14 @@
 import React from 'react'
+import Cards from '../../components/Cards'
 import {
-  Card, Button, CardHeader, CardFooter, CardBody,
-  CardTitle, CardText
+  Card, Button, CardImg, CardTitle, CardText, CardDeck,
+  CardSubtitle, CardBody
 } from 'reactstrap';
 const Portfolio = () => {
   return (
-    <h1></h1>
-
+    <>
+    <Cards/>
+</>
   )
 }
 
