@@ -6,15 +6,7 @@ import {
 const Portfolio = () => {
   return (
     <h1></h1>
-//     <div>
-    
-// <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-//       <Card>
-       
-//         <CardFooter className="text-muted">@React Portfolio App 2020</CardFooter>
-//       </Card>
-//     </div>
   )
 }
 
