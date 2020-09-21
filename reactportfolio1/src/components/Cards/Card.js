@@ -1,41 +1,36 @@
 import React from 'react'
+import 'bootstrap/dist/css/bootstrap.min.css';
 import {
-  Card, Button, CardImg, CardTitle, CardText, CardGroup,
-  CardSubtitle, CardBody
+  Card, CardImg, CardText, CardBody,
+  CardTitle, CardSubtitle, Button
 } from 'reactstrap';
 const Cards = () => {
   return(
     <>
-      <CardGroup>
+      <div>
+        
         <Card>
-          <CardImg top width="100%" src="/2.png" alt="Card image cap" />
+          <CardImg top width="10%" src="./bit.png" alt="Card image cap" />
           <CardBody>
             <CardTitle>Card title</CardTitle>
             <CardSubtitle>Card subtitle</CardSubtitle>
-            <CardText>This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</CardText>
+            <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
             <Button>Button</Button>
           </CardBody>
         </Card>
+      </div>
+      <div>
         <Card>
-          <CardImg top width="100%" src={"/assets/318x180.svg"} alt="Card image cap" />
+          <CardImg top width="50%" src="/assets/318x180.png" alt="Card image cap" />
           <CardBody>
             <CardTitle>Card title</CardTitle>
             <CardSubtitle>Card subtitle</CardSubtitle>
-            <CardText>This card has supporting text below as a natural lead-in to additional content.</CardText>
+            <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
             <Button>Button</Button>
           </CardBody>
         </Card>
-        <Card>
-          <CardImg top width="100%" src="/assets/318x180.svg" alt="Card image cap" />
-          <CardBody>
-            <CardTitle>Card title</CardTitle>
-            <CardSubtitle>Card subtitle</CardSubtitle>
-            <CardText>This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</CardText>
-            <Button>Button</Button>
-          </CardBody>
-        </Card>
-      </CardGroup>
-     
+      </div>
+      
     </>
   )
 }

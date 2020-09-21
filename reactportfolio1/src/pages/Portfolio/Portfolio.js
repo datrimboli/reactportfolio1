@@ -1,13 +1,15 @@
 import React from 'react'
 import Cards from '../../components/Cards'
 import {
-  Card, Button, CardImg, CardTitle, CardText, CardDeck,
-  CardSubtitle, CardBody
+  Card, CardImg, CardText, CardBody,
+  CardTitle, CardSubtitle, Button
 } from 'reactstrap';
 const Portfolio = () => {
   return (
     <>
     <Cards/>
+    <img src="/Portfolio/bit.svg" alt="cc"/>
+     
 </>
   )
 }
