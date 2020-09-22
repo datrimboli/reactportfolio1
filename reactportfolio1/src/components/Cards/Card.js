@@ -9,7 +9,7 @@ import {
 const Cards = () => {
   return(
     
-    <Example />
+     <Example/>
     
   )
 }
