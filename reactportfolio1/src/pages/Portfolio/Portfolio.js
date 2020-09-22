@@ -8,7 +8,7 @@ const Portfolio = () => {
   return (
     <>
     <Cards/>
-    <img src="/Portfolio/bit.svg" alt="cc"/>
+   
      
 </>
   )
