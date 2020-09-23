@@ -1,5 +1,6 @@
-import React from 'react'
-import './About.css'
+import React from 'react';
+import './About.css';
+import resumecurrent from '../../components/Assets/Images/resumecurrent.pdf'
 import Image1 from '../../components/Assets/Images/Dave.jpeg'
 import {
   Card, Button, CardHeader, CardFooter, CardBody,
@@ -9,6 +10,9 @@ import {
 const Portfolio = () => {
   return (
     <>
+      <div color="white" className="App buttoncolor center resume">
+        <a className="resume a"href={resumecurrent} target="_blank"> See my Resume</a>
+      </div>
       <h1 className="name" >Dave Trimboli</h1>
       <hr/>
       <h5 className="name">datrimboli@gmail.com</h5>

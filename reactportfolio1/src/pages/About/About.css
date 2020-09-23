@@ -1,6 +1,6 @@
 .size{
 height: 500px;
-width: 700px;
+width: 1000px;
  text-align: center;
     display: block;
     justify-content: center;
@@ -18,4 +18,13 @@ width: 700px;
 
 .bottom {
   margin-bottom: 4mm;
+}
+
+.resume{
+  color:  white;
+  font-size: 5mm;
+  }
+
+  .a:hover {
+   color: white
 }
