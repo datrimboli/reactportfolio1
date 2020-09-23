@@ -13,28 +13,25 @@ const Footer = () => {
               <li>845-876-9034</li>
               <li>Orlando,FL</li>
               <li>1234 Big Street</li>
-              {/* <li>1234 Dumb St.</li> */}
             </ul>
 
           </div>
           {/* Column2 */}
           <div className="col">
-            <h4>Resources</h4>
+            <h4>Info</h4>
             <ul className="list-unstyled">
-              <li>goodgood</li>
-              <li>thanks</li>
-              {/* <li>sorry</li> */}
-            </ul>
+              <li>Upcoming Work</li>
+              <li>Support</li>
+           </ul>
 
           </div>
           {/* Column3 */}
           <div className="col">
-            <h4>FAQ'S</h4>
+            <h4>Promotions</h4>
             <ul className="list-unstyled">
-              <li>good</li>
-              <li>thanksthanks</li>
-              {/* <li>sorryyy</li> */}
-            </ul>
+              <li>Partners</li>
+              <li>Media</li>
+           </ul>
           </div>
         </div>
         <hr />
