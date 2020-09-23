@@ -42,13 +42,13 @@ const App = () => {
                   <Collapse isOpen={isOpen} navbar>
                     <Nav className="mr-auto" navbar>
                       <NavItem>
-                        <NavLink><Link className="link" to="/">About</Link></NavLink>
+                        <NavLink><Link className="link" to="/reactportfolio1/">About</Link></NavLink>
                       </NavItem>
                       <NavItem>
-                        <NavLink><Link className="link" to="/portfolio">Portfolio</Link></NavLink>
+                        <NavLink><Link className="link" to="/reactportfolio1/portfolio">Portfolio</Link></NavLink>
                       </NavItem>
                       <NavItem>
-                        <NavLink><Link className="link" to="/contact">Contact</Link></NavLink>
+                        <NavLink><Link className="link" to="/reactportfolio1/contact">Contact</Link></NavLink>
                       </NavItem>
                     </Nav>
                   </Collapse>
