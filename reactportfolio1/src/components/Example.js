@@ -15,7 +15,7 @@ const Example = (props) => {
         <Card body>
           <CardImg top width="100%" src={Image1} alt="Card image cap" />
           <CardTitle className="center font">Busks In Town (Project 2)</CardTitle>
-          <CardText className="center font2">With supporting text below as a natural lead-in to additional content.</CardText>
+          <CardText className="center font2">Search the Irvine area for your favorite street performer. It's Busks in Town!</CardText>
           <Button className="buttoncolor" type="button"
             onClick={(e) => {
               e.preventDefault();
@@ -35,7 +35,7 @@ const Example = (props) => {
         <Card body>
           <CardImg top width="100%" src={Image2} alt="Card image cap" />
           <CardTitle className="center font">Handlebars Burger App</CardTitle>
-          <CardText className="center font2">With supporting text below as a natural lead-in to additional content.</CardText>
+          <CardText className="center font2">Create your dream burger, then devour it! The most delicious app ever.</CardText>
           <Button className="buttoncolor" type="button"
             onClick={(e) => {
               e.preventDefault();
@@ -55,7 +55,7 @@ const Example = (props) => {
         <Card body>
           <CardImg top width="100%" src={Image3} alt="Card image cap" />
           <CardTitle className="center font">Express Note Taker</CardTitle>
-          <CardText className="center font2">With supporting text below as a natural lead-in to additional content.</CardText>
+          <CardText className="center font2">Keep track of your daily thoughts and chores with this convenient note taker!</CardText>
           <Button className="buttoncolor" type="button"
             onClick={(e) => {
               e.preventDefault();
@@ -75,7 +75,7 @@ const Example = (props) => {
         <Card body>
           <CardImg top width="100%" src={Image4} alt="Card image cap" />
           <CardTitle className="center font">Fitness Tracker</CardTitle>
-          <CardText className="center font2">With supporting text below as a natural lead-in to additional content.</CardText>
+          <CardText className="center font2">Get buff! Track your reps and cardio with this fitness tracker app!</CardText>
           <Button className="buttoncolor" type="button"
             onClick={(e) => {
               e.preventDefault();
@@ -95,7 +95,7 @@ const Example = (props) => {
         <Card body>
           <CardImg top width="100%" src={Image5} alt="Card image cap" />
           <CardTitle className="center font">PWA Online/Offline Budget</CardTitle>
-          <CardText className="center font2">With supporting text below as a natural lead-in to additional content.</CardText>
+          <CardText className="center font2">Become a more fiscally responsible individual and track your expenses!</CardText>
           <Button className="buttoncolor" type="button"
             onClick={(e) => {
               e.preventDefault();
@@ -115,7 +115,7 @@ const Example = (props) => {
         <Card body>
           <CardImg top width="100%" src={Image6} alt="Card image cap" />
           <CardTitle className="center font">Pokemon site (Project 1)</CardTitle>
-          <CardText className="center font2">With supporting text below as a natural lead-in to additional content.</CardText>
+          <CardText className="center font2">Learn everything you need to know about Pokemon. Gotta catch 'em all!</CardText>
           <Button className="buttoncolor" type="button"
             onClick={(e) => {
               e.preventDefault();

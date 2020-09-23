@@ -1,7 +1,7 @@
 import React from 'react';
 import './About.css';
 import resumecurrent from '../../components/Assets/Images/resumecurrent.pdf'
-import Image1 from '../../components/Assets/Images/Dave.jpeg'
+import peanut from '../../components/Assets/Images/Dave.jpeg'
 import {
   Card, Button, CardHeader, CardFooter, CardBody,
   CardTitle, CardText
@@ -18,7 +18,7 @@ const Portfolio = () => {
       <h5 className="name">datrimboli@gmail.com</h5>
       <h5 className="name">(914) 489-1516</h5>
       <hr/>
-        <img className="size" src={Image1} alt=""/>
+        <img className="size" src={peanut} alt="photo of me"/>
         <hr/>
       <div className="name">
         <Button className="buttoncolor bottom" type="button"
