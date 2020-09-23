@@ -56,9 +56,9 @@ const App = () => {
               </nav>
               
               <Switch>
-                <Route exact path="/reacportfolio1/" component={About} />
-                <Route path="/reacportfolio1/portfolio" component={Portfolio} />
-                <Route path="/reacportfolio1/contact" component={Contact} />
+                <Route exact path="/reactportfolio1/" component={About} />
+                <Route path="/reactportfolio1/portfolio" component={Portfolio} />
+                <Route path="/reactportfolio1/contact" component={Contact} />
               </Switch>
             </div>
           </Router>
