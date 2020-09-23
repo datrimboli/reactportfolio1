@@ -56,9 +56,9 @@ const App = () => {
               </nav>
               
               <Switch>
-                <Route exact path="/" component={About} />
-                <Route path="/portfolio" component={Portfolio} />
-                <Route path="/contact" component={Contact} />
+                <Route exact path="/reacportfolio1/" component={About} />
+                <Route path="/reacportfolio1/portfolio" component={Portfolio} />
+                <Route path="/reacportfolio1/contact" component={Contact} />
               </Switch>
             </div>
           </Router>
