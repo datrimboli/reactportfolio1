@@ -15,8 +15,8 @@ const Portfolio = () => {
       </div>
       <h1 className="name" >Dave Trimboli</h1>
       <hr />
-      <h5 className="name">datrimboli@gmail.com</h5>
-      <h5 className="name">(914) 489-1516</h5>
+      <h5 className="name">davidatrimboli@gmail.com</h5>
+      <h5 className="name">(914) 489-3535</h5>
       <hr />
       <img className="size" src={peanut} alt="photo of me" />
       <hr />

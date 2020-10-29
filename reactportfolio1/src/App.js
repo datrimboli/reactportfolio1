@@ -28,16 +28,16 @@ const App = () => {
 
   return (
     <>
-     
+
       <div className="page-container">
         <div className="content-wrap">
           <Router>
             <div>
               <nav className="reddish">
                 <Navbar light expand="md">
-                  
+
                   <NavbarBrand>Home</NavbarBrand>
-                  
+
                   <NavbarToggler onClick={toggle} />
                   <Collapse isOpen={isOpen} navbar>
                     <Nav className="mr-auto" navbar>
@@ -54,7 +54,7 @@ const App = () => {
                   </Collapse>
                 </Navbar>
               </nav>
-              
+
               <Switch>
                 <Route exact path="/reactportfolio1/" component={About} />
                 <Route path="/reactportfolio1/portfolio" component={Portfolio} />

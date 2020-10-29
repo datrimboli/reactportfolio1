@@ -5,8 +5,8 @@ const Footer = () => {
   return (
     <div className="main-footer center">
       <div className="container">
-        <div className="row">
-          {/* Column1 */}
+        {/* <div className="row">
+          Column1
           <div className="col">
             <h4>Contact</h4>
             <ul className="list-unstyled">
@@ -16,7 +16,7 @@ const Footer = () => {
             </ul>
 
           </div>
-          {/* Column2 */}
+          Column2
           <div className="col">
             <h4>Info</h4>
             <ul className="list-unstyled">
@@ -25,7 +25,7 @@ const Footer = () => {
            </ul>
 
           </div>
-          {/* Column3 */}
+          Column3
           <div className="col">
             <h4>Promotions</h4>
             <ul className="list-unstyled">
@@ -33,11 +33,11 @@ const Footer = () => {
               <li>Media</li>
            </ul>
           </div>
-        </div>
-        <hr />
+        </div> */}
+        {/* <hr /> */}
         <div className="row">
           <p className="col-sm center">
-            &copy;{new Date().getFullYear()} Trimboli Productions | All rights reserved | Terms of service | Privacy
+            &copy;{new Date().getFullYear()} Trimboli Portfolio | David Trimboli | davidatrimboli@gmail.com | (914) 489-3535
           </p>
  
         </div>
