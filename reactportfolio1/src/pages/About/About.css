@@ -28,3 +28,7 @@ width: 500px;
   .a:hover {
    color: white
 }
+
+.bg {
+  background-color: lavender;
+}

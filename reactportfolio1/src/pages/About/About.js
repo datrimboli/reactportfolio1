@@ -10,7 +10,7 @@ import {
 const Portfolio = () => {
   return (
     <>
-      <div color="white" className="App buttoncolor center resume">
+      <div color="white bg" className="App buttoncolor center resume">
         <a className="resume a" href={resumecurrent} target="_blank"> See my Resume</a>
       </div>
       <h1 className="name" >Dave Trimboli</h1>
