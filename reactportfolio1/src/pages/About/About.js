@@ -20,6 +20,7 @@ const Portfolio = () => {
       <hr />
       <img className="size" src={peanut} alt="photo of me" />
       <hr />
+      <h5 className="name">(914) 489-3535</h5>
       <div className="name">
         <Button className="buttoncolor bottom" type="button"
           onClick={(e) => {
