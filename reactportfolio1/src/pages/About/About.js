@@ -11,7 +11,7 @@ const Portfolio = () => {
   return (
     <>
       <div color="white bg" className="App buttoncolor center resume">
-        <a className="resume a" href={resumecurrent} target="_blank"> See my Resume</a>
+        <a className="resume a" href={Coderesume} target="_blank"> See my Resume</a>
       </div>
       <h1 className="name" >Dave Trimboli</h1>
       <hr />
