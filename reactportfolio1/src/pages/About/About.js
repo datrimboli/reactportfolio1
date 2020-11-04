@@ -1,6 +1,6 @@
 import React from 'react';
 import './About.css';
-import Coderesume from '../../components/Assets/Images/Coderesume.pdf'
+import Coderesume from '../../components/Assets/Images/2020code.pdf'
 import peanut from '../../components/Assets/Images/Dave.jpeg'
 import {
   Card, Button, CardHeader, CardFooter, CardBody,
