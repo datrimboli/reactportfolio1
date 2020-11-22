@@ -21,8 +21,8 @@ const Portfolio = () => {
       <img className="size" src={peanut} alt="photo of me" />
       <hr />
       <h5 className="name">
-        Technical SKills
         <ul>
+          <h4 className="underline">Technical Skills</h4>
           <li>HTML</li>
           <li>CSS</li>  
           <li>JavaScript</li> 
