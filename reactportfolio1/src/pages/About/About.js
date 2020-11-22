@@ -20,7 +20,21 @@ const Portfolio = () => {
       <hr />
       <img className="size" src={peanut} alt="photo of me" />
       <hr />
-      <h5 className="name">I am a Full-Stack Web Developer using a background in the Audio Visual/Entertainment industry to develop real world, intriguing applications for all types of users.  Recently, I earned a certificate in Coding and Web Development from the University of California, Irvine, with newly developed skills in HTML/CSS, JavaScript/JQuery, SQL & NoSQL Databases, React.js, Node.js, and Express.  I am a productive, persistent problem solver, who is always eager to learn more about cutting edge technologies and responsive web development.  In every endeavor that I take on, my goal is to develop a product that brings the user the most optimal user experience possible.  In my most recent project, I worked as a team with three fellow developers to create a multi-page MERN app that brings those in the coding community together and allows easy and effective collaboration on web development projects. I am eager and highly enthused to use my new found skills as part of a fast-moving team with aspirations of excellence in order to build the best experiences possible for users on the web. </h5>
+      <h5>
+        Technical SKills
+        <ul>
+          <li>HTML</li>
+          <li>CSS</li>  
+          <li>JavaScript</li> 
+          <li>JQuery </li> 
+          <li>SQL </li> 
+          <li>MongoDB</li> 
+          <li>React.js </li> 
+          <li>Node.js</li> 
+          <li>Express</li> 
+        </ul>
+      </h5>
+      <h5 className="name">I am a Full-Stack Web Developer using a background in the Audio Visual/Entertainment industry to develop real world, intriguing applications for all types of users.  Recently, I earned a certificate in Coding and Web Development from the University of California, Irvine.  I am a productive, persistent problem solver, who is always eager to learn more about cutting edge technologies and responsive web development.  In every endeavor that I take on, my goal is to develop a product that brings the user the most optimal user experience possible.  In my most recent project, I worked as a team with three fellow developers to create a multi-page MERN app that brings those in the coding community together and allows easy and effective collaboration on web development projects. I am eager and highly enthused to use my new found skills as part of a fast-moving team with aspirations of excellence in order to build the best experiences possible for users on the web. </h5>
       <div className="name">
         <Button className="buttoncolor bottom" type="button"
           onClick={(e) => {
