@@ -24,15 +24,15 @@ const Portfolio = () => {
         <h5 className="name">
           <ul>
             <h4 className="underline">Technical Skills</h4>
-          HTML
-          CSS
-          JavaScript
-          JQuery
-          SQL
-          MongoDB
-          React.js
-          Node.js
-          Express
+          HTML |
+          CSS |
+          JavaScript |
+          JQuery |
+          SQL |
+          MongoDB |
+          React.js |
+          Node.js |
+          Express |
         </ul>
         </h5>
         <hr />

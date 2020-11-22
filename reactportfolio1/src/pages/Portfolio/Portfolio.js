@@ -1,4 +1,5 @@
 import React from 'react'
+import './About.css';
 import Cards from '../../components/Cards'
 import {
   Card, CardImg, CardText, CardBody,
@@ -7,7 +8,9 @@ import {
 const Portfolio = () => {
   return (
     <>
+      <div className="bkgclr" >
     <Cards/>
+      </div>
    
      
 </>
