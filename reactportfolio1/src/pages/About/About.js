@@ -32,7 +32,7 @@ const Portfolio = () => {
           MongoDB |
           React.js |
           Node.js |
-          Express |
+          Express 
         </ul>
         </h5>
         <hr />
