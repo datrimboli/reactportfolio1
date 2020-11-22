@@ -36,3 +36,7 @@ width: 500px;
 .underline {
   text-underline-position: below;
 }
+
+.bkgclr{
+  background-color: lightslategray;
+}
