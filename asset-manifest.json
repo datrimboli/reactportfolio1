@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/reactportfolio1/static/css/main.3a046e73.chunk.css",
-    "main.js": "/reactportfolio1/static/js/main.ff505698.chunk.js",
-    "main.js.map": "/reactportfolio1/static/js/main.ff505698.chunk.js.map",
+    "main.css": "/reactportfolio1/static/css/main.47e6a45f.chunk.css",
+    "main.js": "/reactportfolio1/static/js/main.10b54874.chunk.js",
+    "main.js.map": "/reactportfolio1/static/js/main.10b54874.chunk.js.map",
     "runtime-main.js": "/reactportfolio1/static/js/runtime-main.92406004.js",
     "runtime-main.js.map": "/reactportfolio1/static/js/runtime-main.92406004.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/reactportfolio1/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.1db45971.chunk.js": "/reactportfolio1/static/js/2.1db45971.chunk.js",
     "static/js/2.1db45971.chunk.js.map": "/reactportfolio1/static/js/2.1db45971.chunk.js.map",
     "index.html": "/reactportfolio1/index.html",
-    "precache-manifest.6490c1a18edc0755650be8302bba854a.js": "/reactportfolio1/precache-manifest.6490c1a18edc0755650be8302bba854a.js",
+    "precache-manifest.febb848ead25534ca4c19d7f5534d026.js": "/reactportfolio1/precache-manifest.febb848ead25534ca4c19d7f5534d026.js",
     "service-worker.js": "/reactportfolio1/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/reactportfolio1/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.3a046e73.chunk.css.map": "/reactportfolio1/static/css/main.3a046e73.chunk.css.map",
+    "static/css/main.47e6a45f.chunk.css.map": "/reactportfolio1/static/css/main.47e6a45f.chunk.css.map",
     "static/js/2.1db45971.chunk.js.LICENSE.txt": "/reactportfolio1/static/js/2.1db45971.chunk.js.LICENSE.txt",
-    "static/media/2020code.pdf": "/reactportfolio1/static/media/2020code.c8b2430c.pdf",
+    "static/media/2020.pdf": "/reactportfolio1/static/media/2020.f295517b.pdf",
     "static/media/Dave.jpeg": "/reactportfolio1/static/media/Dave.b5ba9fff.jpeg",
     "static/media/bit.png": "/reactportfolio1/static/media/bit.f0a2b6a2.png",
     "static/media/burgproj.png": "/reactportfolio1/static/media/burgproj.14bc7f88.png",
@@ -27,7 +27,7 @@
     "static/js/runtime-main.92406004.js",
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.1db45971.chunk.js",
-    "static/css/main.3a046e73.chunk.css",
-    "static/js/main.ff505698.chunk.js"
+    "static/css/main.47e6a45f.chunk.css",
+    "static/js/main.10b54874.chunk.js"
   ]
 }
